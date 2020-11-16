@@ -1,0 +1,71 @@
+/*
+    GENERAL DEFINITIONS
+*/
+
+body {
+    background-color: #1F2833;
+    color: #C5C6C7;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section {
+    margin-left: 2em;
+}
+
+h1 {
+    color: #66FCF1;
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: #1F2833;
+    color: #C5C6C7;
+
+    border-color: #45A29E;
+    border-radius: 0.7em;
+
+    
+    font-size: 1em;
+    font-weight: bold;
+
+    box-shadow: none;
+    
+    padding: 0.7em 1.5em;
+}
+
+button:hover {
+    background-color: #66FCF1;
+    color: #1F2833;
+}
+
+/*
+    CLASS DEFINITIONS
+*/
+
+.content {
+    margin-left: 2em;
+}
+
+.actions {
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+/*
+    ID DEFINITIONS
+*/
+
+#btn-add-session {
+    display: inline;
+    padding: 0.2em;
+    margin-right: 0.5em;
+
+    font-weight: bold;
+}
+
+#session {
+    display: inline;
+}
