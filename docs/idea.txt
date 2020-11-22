@@ -1,0 +1,14 @@
+Learning Tracker:
+
+This is to track my learning progress. Learning data gets saved for further processing (in the moment as .csv file).
+
+Fields to keep track of:
+
+    - session (session id)
+    - date
+    - start time
+    - end time
+    - course (could choose that as dropdown list, could be saved in a json file)
+    - activitys (one activity per entry - all is going to be tied to session id)
+    - productivity (number from 1 - 10)
+    - difficulty of topic (number from 1 - 10)    

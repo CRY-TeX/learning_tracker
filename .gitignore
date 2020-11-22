@@ -1,2 +1,4 @@
 virt_env
 src/notebooks
+assets
+src/__pycache__
